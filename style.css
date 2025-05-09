@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: hsl(214, 17%, 92%); /* Grey 100 */
+  background-color: hsl(214, 17%, 92%); 
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 13px;
   min-height: 100vh;
@@ -43,11 +43,11 @@ header {
 }
 
 .daniel-img {
-  border: 2px solid hsl(264, 82%, 80%); /* Purple 300 */
+  border: 2px solid hsl(264, 82%, 80%); 
 }
 
 .patrick-img {
-  border: 2px solid hsl(263, 55%, 52%); /* Purple 500 */
+  border: 2px solid hsl(263, 55%, 52%); 
 }
 
 .name {
@@ -81,26 +81,26 @@ h2 {
 }
 
 .container {
-  background-color: hsl(263, 55%, 52%); /* Purple 500 */
+  background-color: hsl(263, 55%, 52%); 
   background-image: url(images/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
   background-position: top right 1.5rem;
-  color: hsl(0, 0%, 100%); /* White */
+  color: hsl(0, 0%, 100%); 
 }
 
 .container-2 {
-  background-color: hsl(217, 19%, 35%); /* Grey 500 */
-  color: hsl(0, 0%, 100%); /* White */
+  background-color: hsl(217, 19%, 35%); 
+  color: hsl(0, 0%, 100%); 
 }
 
 .container-3 {
-  background-color: hsl(219, 29%, 14%); /* Dark blue */
-  color: hsl(0, 0%, 100%); /* White */
+  background-color: hsl(219, 29%, 14%); 
+  color: hsl(0, 0%, 100%); 
 }
 
 .container-4, .container-5 {
-  background-color: hsl(0, 0%, 100%); /* White */
-  color: hsl(219, 29%, 14%); /* Dark blue */
+  background-color: hsl(0, 0%, 100%); 
+  color: hsl(219, 29%, 14%); 
 }
 
 
@@ -146,5 +146,5 @@ h2 {
 }
 
 .attribution a {
-  color: hsl(263, 55%, 52%); /* Purple 500 */
+  color: hsl(263, 55%, 52%); 
 }
